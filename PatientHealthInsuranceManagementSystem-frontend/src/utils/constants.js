@@ -1,0 +1,1 @@
+export const STRIPE_PUBLIC_KEY = "pk_live_F9NP3s3hbH42wtqD45Rer3HE";

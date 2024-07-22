@@ -1,0 +1,67 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@react-google-maps/api": "^1.13.0",
+    "antd": "^3.24.3",
+    "axios": "^0.19.0",
+    "bulma": "^0.8.0",
+    "file-saver": "^2.0.2",
+    "flat": "^5.0.0",
+    "is-empty": "^1.2.0",
+    "jwt-decode": "^2.2.0",
+    "lottie-react-web": "^2.1.4",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.6",
+    "query-string": "^6.9.0",
+    "react": "^16.11.0",
+    "react-clock": "^2.4.0",
+    "react-confirm-alert": "^2.4.1",
+    "react-day-picker": "^7.4.0",
+    "react-dom": "^16.11.0",
+    "react-google-login": "^5.1.21",
+    "react-google-recaptcha": "^2.1.0",
+    "react-idle-timer": "^4.2.11",
+    "react-image-crop": "^8.4.0",
+    "react-input-mask": "^2.0.4",
+    "react-json-view": "^1.19.1",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-router-hash-link": "^2.2.2",
+    "react-scripts": "^3.4.3",
+    "react-select": "^3.0.8",
+    "react-signature-canvas": "^1.0.3",
+    "react-star-ratings": "^2.3.0",
+    "react-stripe-checkout": "^2.6.3",
+    "react-stripe-elements": "^6.0.1",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.3.3",
+    "validator": "^12.0.0"
+  },
+  "proxy": "http://127.0.0.1:3002/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
