@@ -1,0 +1,10 @@
+{
+  "short_name": "Joe's",
+  "name": "Joe's Odd Jobs",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
